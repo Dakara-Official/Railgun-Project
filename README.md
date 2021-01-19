@@ -1,1 +1,3 @@
 # Railgun-Project
+
+Bilibili, kanpai!

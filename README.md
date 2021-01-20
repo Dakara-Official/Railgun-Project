@@ -1,3 +1,2 @@
-# Railgun-Project
+# dakara.github.io
 
-Bilibili, kanpai!
